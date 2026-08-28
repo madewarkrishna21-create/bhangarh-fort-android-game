@@ -15,7 +15,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             MaterialTheme {
                 Surface {
-                    Text("BhangerhFort")
+                    Text("Bhangarh Fort")
                 }
             }
         }
